@@ -15,7 +15,7 @@ module.exports = {
     // 设置html代码引入文件的前缀
     publicPath: '/',
     // 设置每次打包前，删除之前打包的文件
-    clean: true,
+    clean: true, 
   },
   module: {
     rules: [
